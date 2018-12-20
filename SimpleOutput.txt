@@ -1,7 +1,6 @@
 # IIR_Task1
 TF-IDF &amp; Cosine Similarity for RSS News feed
-
-
+----> Query = brexit deal
 Sample output from 20-Dec-18 (~20:00)
 
 ================================================
