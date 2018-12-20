@@ -2,7 +2,7 @@
 TF-IDF &amp; Cosine Similarity for RSS News feed
 
 
-Sample output from 20-Dec-18 (~18:20)
+Sample output from 20-Dec-18 (~20:00)
 
 ================================================
 
@@ -21,8 +21,8 @@ ForkPoolWorker-73 reading sub array with ID: 0
 ForkPoolWorker-74 reading sub array with ID: 1
 
 3011 words in 343 documents.
-Score:  3.3803921600570273
 
+Score:  3.3803921600570273
 Title:  Labour and Tory MPs strengthen efforts to prevent no-deal Brexit | UPDATED: 2018-12-20T19:09:07Z
 Summary:  <p>MPs table amendment to finance bill that would prevent cliff-edge Brexit</p><p>Senior Labour and Conservative MPs are to ramp up efforts to block any possibility of a no-deal Brexit ahead of the vote on Theresa May’s deal, with a plan to mandate the prime minister to extend or cancel article 50 if the prospect of crashing out looms.</p><p>Efforts were kickstarted on Thursday by a cross-party group of prominent MPs led by Yvette Cooper, who tabled a new amendment to the finance bill that would only allow a no-deal exit if MPs voted to proceed with one.</p> <a href="https://www.theguardian.com/politics/2018/dec/20/theresa-may-cabinet-collectively-focused-on-passing-brexit-deal">Continue reading...</a>
 Link:  https://www.theguardian.com/politics/2018/dec/20/theresa-may-cabinet-collectively-focused-on-passing-brexit-deal
