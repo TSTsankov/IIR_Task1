@@ -118,7 +118,9 @@ def list_to_dict(item):
 
     for docid, value in docval:
         groups[docid] += value
-
+    
+    IDF = math.log10( len(lines)/len(groups))
+    
     docArray = [{'occ': 0, 'DF': 0, 'IDF': IDF}] * len(lines)
 
     for docID, wordOccurance in groups.items():
